@@ -9,6 +9,7 @@ objectives:
 keypoints:
 - "The measurement fits for the signal strength (multiplier of the Standard Model expectation) of the Z to two tau lepton process."
 ---
+<iframe width="431" height="263" src="https://www.youtube.com/embed/XW8SE7rC9fQ?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This step performs a fit on the histograms of the visible mass plot to perform a measurement.
 

@@ -11,7 +11,7 @@ keypoints:
 - "Example analysis used as common baseline for learning the technologies discussed at the workshop"
 - "This analysis studies decays of a Higgs boson into two tau leptons in the final state of a muon lepton and a hadronically decayed tau lepton"
 ---
-
+<iframe width="431" height="263" src="https://www.youtube.com/embed/gplMywJAFDI?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Why have we prepared this analysis?
 
 We have prepared this example analysis as common baseline for learning the technologies discussed in this workshop. The goal is to have a working example that is simple yet complex enough to demonstrate common problems and their solutions in physics analysis.

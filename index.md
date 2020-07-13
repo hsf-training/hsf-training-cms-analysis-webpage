@@ -5,7 +5,6 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 Example analysis of Higgs boson decays to two tau leptons used to teach software technologies at the Awesome Workshop aka the Analysis Preservation Bootcamp.
-
 <div class="row">
   <div class="col-md-6">
 
@@ -18,8 +17,7 @@ Example analysis of Higgs boson decays to two tau leptons used to teach software
 
   </div>
 </div>
-
-**Useful information**
+### Useful information
 
 Timetable: [Link to the Indico agenda](https://indico.cern.ch/event/854880/)
 
@@ -30,6 +28,10 @@ CERN Mattermost server: [mattermost.web.cern.ch](https://mattermost.web.cern.ch)
 **Invitation link for the Awesome Workshop team on Mattermost: [Click me!](https://mattermost.web.cern.ch/signup_user_complete/?id=t9zkdocffbbozqcdy193myre8y)**
 
 Mattermost channel dedicated to prework discussions: [Prework Discussion](https://mattermost.web.cern.ch/awesome-ws/channels/prework-discussion)
+
+### Videos
+
+<iframe width="431" height="263" src="https://www.youtube.com/embed/gplMywJAFDI?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- this is an html comment -->
 

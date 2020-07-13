@@ -11,6 +11,7 @@ keypoints:
 - "The plots show the share of the contributing physical processes to the data."
 - "We do not include any systematic uncertainties in this example."
 ---
+<iframe width="431" height="263" src="https://www.youtube.com/embed/tos_rDpD2QI?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Finally, the histograms are combined to produce the final plots showing the data taken with the CMS detector compared with the expectation from the background estimates. These plots allow one to study the contribution of the different physics processes to the data taken with the CMS detector and represent the first step towards verifying the existence of the Higgs boson.
 

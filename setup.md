@@ -21,6 +21,7 @@ Next, please select one of the following solutions to get the required software.
 The analysis needs ROOT above release 6.16, a recent C++ compiler supporting at least C++14 and Python. To set up the software, choose one of the following options.
 
 ### Docker
+<iframe width="431" height="263" src="https://www.youtube.com/embed/CMM03xbsYRg?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On a machine running docker (see docker setup instructions for [MacOS](https://docs.docker.com/docker-for-mac/install/), [CentOS](https://docs.docker.com/install/linux/docker-ce/centos/) and [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)), cd into the top level of your analysis repo:
 
@@ -47,6 +48,7 @@ When you're finished working in the container type `exit` to get out of it.
 If you are running on a Linux distribution or MacOS, you can use the conda package manager to install ROOT in under five minutes. Follow the steps shown in the first slides in [this presentation](https://indico.cern.ch/event/759388/contributions/3306849/attachments/1816254/2968550/root_conda_forge.pdf) to set up your system.
 
 ### lxplus/CVMFS
+<iframe width="431" height="263" src="https://www.youtube.com/embed/S-ZYK6kvxv8?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use the [CERN lxplus service](http://information-technology.web.cern.ch/services/lxplus-service) to log into a machine at CERN with [CVMFS](https://cernvm.cern.ch/portal/filesystem). Alternatively, you can use any system with a CVMFS installation. Use the following command to connect to lxplus [with X forwarding](https://unix.stackexchange.com/questions/12755/how-to-forward-x-over-ssh-to-run-graphics-applications-remotely).
 

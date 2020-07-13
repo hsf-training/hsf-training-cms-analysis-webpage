@@ -10,6 +10,7 @@ keypoints:
 - "We reduce the inital datasets by filtering suitable events and the selection of the interesting observables."
 - "This step includes finding the interesting muon-tau pair in each selected event."
 ---
+<iframe width="431" height="263" src="https://www.youtube.com/embed/KgDgn6tEhiE?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this step, the NanoAOD files containing data and simulated events are pre-processed. This step is called skimming since the event selection reduces the size of the datasets significantly. In addition, we perform a pair selection to find from the muon and tau collections the pair which is most likely to have originated from a Higgs boson.
 
