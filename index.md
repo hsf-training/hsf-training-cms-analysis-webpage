@@ -17,9 +17,10 @@ Example analysis of Higgs boson decays to two tau leptons used to teach software
 
   </div>
 </div>
-### Useful information
 
-Timetable: [Link to the Indico agenda](https://indico.cern.ch/event/854880/)
+{% include curriculum.html %}
+
+### Useful information
 
 CERN Mattermost server: [mattermost.web.cern.ch](https://mattermost.web.cern.ch)
 
