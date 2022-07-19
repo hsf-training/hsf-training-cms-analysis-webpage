@@ -57,4 +57,3 @@ Please note that a proper analysis of data always requires a thorough study of a
 Please go [here](../setup.html), select one of the options to set up your environment with the required software and download the required files.
 
 {% include links.md %}
-
