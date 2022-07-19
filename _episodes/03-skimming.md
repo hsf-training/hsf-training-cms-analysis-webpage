@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Perform this step of the analysis by yourself"
 keypoints:
-- "We reduce the inital datasets by filtering suitable events and the selection of the interesting observables."
+- "We reduce the initial datasets by filtering suitable events and the selection of the interesting observables."
 - "This step includes finding the interesting muon-tau pair in each selected event."
 ---
 <iframe width="431" height="263" src="https://www.youtube.com/embed/KgDgn6tEhiE?list=PLKZ9c4ONm-Vk0wnDKaaovoEkOk3PVdL0V" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,7 +23,7 @@ mkdir -p $HOME/awesome-workshop/skims
 bash skim.sh root://eospublic.cern.ch//eos/root-eos/HiggsTauTauReduced/ $HOME/awesome-workshop/skims
 ```
 
-In case you want to download the files first, for example if you want to run many times, execute the following two commands. The overall size of the inital samples is 6.5 GB.
+In case you want to download the files first, for example if you want to run many times, execute the following two commands. The overall size of the initial samples is 6.5 GB.
 
 ```bash
 mkdir -p $HOME/awesome-workshop/samples $HOME/awesome-workshop/skims
