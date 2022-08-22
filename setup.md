@@ -6,12 +6,12 @@ title: Setup
 
 First, download the required files using the following link and unpack the archive:
 
-[https://github.com/awesome-workshop/payload/archive/master.zip](https://github.com/awesome-workshop/payload/archive/master.zip)
+[https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip](https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip)
 
 For download via the terminal, you can use the following command:
 
 ```bash
-curl -OL https://github.com/awesome-workshop/payload/archive/master.zip
+curl -OL https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip
 ```
 
 Next, please select one of the following solutions to get the required software.
