@@ -13,6 +13,9 @@ For download via the terminal, you can use the following command:
 ```bash
 curl -OL https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip
 ```
+Or clone the repository:
+
+git clone https://github.com/hsf-training/hsf-training-cms-analysis.git
 
 Next, please select one of the following solutions to get the required software.
 
