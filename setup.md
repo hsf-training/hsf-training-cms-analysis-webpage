@@ -15,7 +15,9 @@ curl -OL https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/
 ```
 Or clone the repository:
 
+```bash
 git clone https://github.com/hsf-training/hsf-training-cms-analysis.git
+```
 
 Next, please select one of the following solutions to get the required software.
 
