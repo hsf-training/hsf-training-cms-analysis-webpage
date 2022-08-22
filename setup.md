@@ -4,18 +4,11 @@ title: Setup
 
 ## Download the files
 
-First, download the required files using the following link and unpack the archive:
+First, download the required files using the following link or by cloning the git repository:
 
 [https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip](https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip)
 
-For download via the terminal, you can use the following command:
-
-```bash
-curl -OL https://github.com/hsf-training/hsf-training-cms-analysis/archive/refs/heads/master.zip
-
-unzip master.zip
-```
-Or clone the repository:
+For cloning the repository via the terminal:
 
 ```bash
 git clone https://github.com/hsf-training/hsf-training-cms-analysis.git
