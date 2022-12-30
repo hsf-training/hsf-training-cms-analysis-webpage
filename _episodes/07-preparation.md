@@ -27,9 +27,9 @@ First, go to [github](https://github.com/) or [gitlab.cern.ch](https://gitlab.ce
 
 ### Check out the repositories
 
-Next, check out the repositories. You can do this with the following command. 
+Next, check out the repositories. You can do this with the following command.
 
-Github: 
+Github:
 
 ```bash
 git clone https://github.com/<your username>/<repository name>
