@@ -20,7 +20,7 @@ We assume that you have run the analysis once by yourself and you are familiar w
 
 ### Visit GitHub/CERN GitLab and initialize the repositories
 
-First, go to [github](https://github.com/) or [gitlab.cern.ch](https://gitlab.cern.ch) and create two new repositories using the `New project` button. The names of the repositories should be:
+First, go to [github](https://github.com/) or [gitlab.cern.ch](https://gitlab.cern.ch) and create two new repositories using the `New repository` (Github) or `New project` (Gitlab) button. The names of the repositories should be:
 
  - `awesome-analysis-eventselection`
  - `awesome-analysis-statistics`
@@ -34,7 +34,8 @@ Github:
 ```bash
 git clone https://github.com/<your username>/<repository name>
 ```
-CERN GitLab
+
+CERN GitLab:
 
 ```bash
 git clone https://gitlab.cern.ch/<your username>/<repository name>
