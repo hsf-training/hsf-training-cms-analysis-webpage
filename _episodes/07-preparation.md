@@ -18,16 +18,23 @@ keypoints:
 
 We assume that you have run the analysis once by yourself and you are familiar with the different analysis steps. Follow the instructions below as final preparations for a successful workshop.
 
-### Visit CERN GitLab and initialize the repositories
+### Visit GitHub/CERN GitLab and initialize the repositories
 
-First, go to [gitlab.cern.ch](https://gitlab.cern.ch) and create two new repositories using the `New project` button. The names of the repositories should be:
+First, go to [github](https://github.com/) or [gitlab.cern.ch](https://gitlab.cern.ch) and create two new repositories using the `New project` button. The names of the repositories should be:
 
  - `awesome-analysis-eventselection`
  - `awesome-analysis-statistics`
 
 ### Check out the repositories
 
-Next, check out the repositories. You can do this with the following command.
+Next, check out the repositories. You can do this with the following command. 
+
+Github: 
+
+```bash
+git clone https://github.com/<your username>/<repository name>
+```
+CERN GitLab
 
 ```bash
 git clone https://gitlab.cern.ch/<your username>/<repository name>
