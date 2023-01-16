@@ -5,7 +5,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-cms-analysis-webpage/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-cms-analysis-webpage/main)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-cms-analysis-webpage/gh-pages.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-cms-analysis-webpage/gh-pages)
 [![pages-build-deployment](https://github.com/hsf-training/hsf-training-cms-analysis-webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/hsf-training-cms-analysis-webpage/actions/workflows/pages/pages-build-deployment)
 
 # CMS Analysis Example Webpage
@@ -18,7 +18,9 @@ This is a package
 
 ## 📅 Past events and videos
 
-* 🎥 [Fixme Sample event Dec 1 - 13, 2022](indico.cern.ch/)
+
+* [June 2020](https://indico.cern.ch/event/904759/)
+* [Feb 2020](https://indico.cern.ch/event/854880/)
 
 Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
 
