@@ -29,7 +29,7 @@ On a machine running docker (see docker setup instructions for [MacOS](https://d
 cd /path/to/analysis/repo
 ```
 
-start up a container from the `rootproject/root-conda` docker image as follows:
+start up a container from the `rootproject/root` docker image as follows:
 
 ```bash
 docker run -it --rm -v $PWD:/analysis -w /analysis rootproject/root:6.26.10-conda /bin/bash
