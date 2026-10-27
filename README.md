@@ -22,7 +22,7 @@ This is a package
 * [June 2020](https://indico.cern.ch/event/904759/)
 * [Feb 2020](https://indico.cern.ch/event/854880/)
 
-Emoji key: 🎥 (full video recordings availabile), ⛏️ (hackathon)
+Emoji key: 🎥 (full video recordings available), ⛏️ (hackathon)
 
 ## 🤗 Contributing
 <!-- CENTRALLY MAINTAINED SECTION -->
