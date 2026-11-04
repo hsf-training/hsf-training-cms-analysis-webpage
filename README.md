@@ -25,9 +25,6 @@ This is a package
 Emoji key: 🎥 (full video recordings available), ⛏️ (hackathon)
 
 ## 🤗 Contributing
-<!-- CENTRALLY MAINTAINED SECTION -->
-<!-- Remove the above marker to disable having this section be overwritten -->
-
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
 
@@ -61,7 +58,6 @@ nicely explained in the chapter [Contributing to a Project][progit] in Pro Git
 by Scott Chacon.
 Look for the tag [![good_first_issue]][gfi-badge], which marks particularly simple issues to get you started.
 
-<!-- END CENTRALLY MAINTAINED SECTION -->
 ## 💖 Authors
 
 <!-- If we have a primary author/maintainer, who kicked off the whole lessen etc, he should get a dedicated shoutout here -->
