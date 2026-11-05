@@ -1,0 +1,5 @@
+# Relative link to the rendered setup page (../setup.html in _episodes/01-introduction.md).
+# It only exists on the built site, where it resolves.
+^file://.*/setup\.html$
+# Hosts that block bots but work in a browser.
+https://unix\.stackexchange\.com/
